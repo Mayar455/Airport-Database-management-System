@@ -1,0 +1,13 @@
+Flight_number ,Leg_num,Dp_airport_code ,Sch_departure_t,Scheduled_arrival_time,Arr_airport_code 
+Tk2163,1,esb,10:05,10:55,adb
+Tk2163,2,adb,11:45,12:35,ist
+Tk2313,0,ist,06:45,07:40,esb
+Tk3,0,ist,07:15,10:20,dxb
+Ba0113,1,lhr,08:20,12:20,ist
+Ba0113,2,ist,14:10,00:00,jfk
+Ek121,0,jfk,15:00,23:55,dxb
+Pc3168,0,saw,09:00,09:50,esb
+Ek202,1,dxb,06:45,09:40,esb
+Ek202,2,esb,11:45,16:30,lhr
+Ek202,3,lhr,21:00,03:10,jfk
+Ba0104,0,saw,16:20,22:15,lhr

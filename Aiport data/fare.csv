@@ -1,0 +1,9 @@
+Flight_number ,Fare_code ,Amount ,Restriction
+Tk2313,L,450,economy class
+Tk3,M,3200,economy class
+Ba0113,N,2200,economy class
+Ek121,Q,2100,economy class
+Pc3168,T,170,economy class
+Ba0104,V,1750,economy class
+Ek202,J,3200,business class
+Tk2163,F,1400,first class
