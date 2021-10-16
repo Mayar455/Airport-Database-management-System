@@ -1,7 +1,7 @@
 # Airport-Database-management-System
 Airports are one of the most busiest places in world. to make a tracking system that controls, hold all the details regarding each flight from different destinations needs very calculated system. here i with my group friends tried to make a Relational database model and using some queries.
 
-in query.sql find you can find all the queries regarding our RDBMS model details are as below:
+in query.sql  you can find all the queries regarding our RDBMS model. details are as below:
 
 1.Write down the appropriate SQL scripts (DDL statements) for creating the database and its
 relational model. You can select any of the DBMS you wish.
